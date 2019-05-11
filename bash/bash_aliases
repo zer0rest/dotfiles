@@ -1,0 +1,5 @@
+alias digs="dig +short"
+alias td="./tmuxdeploy.sh"
+alias tdf="./tmuxdeploy.sh f"
+alias copy="xclip"
+alias paste="xclip -o"
